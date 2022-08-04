@@ -1,0 +1,5542 @@
+@font-face {
+    font-family: 'Founders Grotesk';
+    src: url(../fonts/Brand_Typefaces/Founders\ Grotesk\ -\ Regular.otf);
+}
+
+@font-face {
+    font-family: 'FoundersGrotesk-Medium';
+    src: url(../fonts/FoundersGrotesk-Medium.otf);
+}
+
+@font-face {
+    font-family: 'Maison Mono';
+    src: url(../fonts/Brand_Typefaces/Maison\ Neue\ Mono.otf);
+}
+
+@font-face {
+    font-family: 'Canela';
+    src: url(../fonts/Brand_Typefaces/Canela-Light.otf);
+}
+#main-footer .p-2.bd-highlight {
+    padding-top: 17px !important;
+}
+img.logo-img {
+    padding-left: 30px;
+    padding-bottom: 6px;
+}
+
+#empty-card .container {
+    max-width: 1334px;
+}
+
+.link img {
+    margin-left: 10px;
+}
+
+svg.svv {
+    margin-left: 7px;
+}
+
+.navbar-brand svg {
+    width: 112%;
+}
+
+#iner-frame-sec .inquiry {
+    padding-top: 12px;
+    padding-bottom: 35px;
+}
+
+#section25 .event {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+    padding-top: 116px;
+}
+
+#two-cards-image2 .img-fluid {
+    max-width: 622px;
+    height: 655px;
+}
+
+.container {
+    max-width: 1272px;
+}
+
+#paragraph .imag {
+    text-align: center;
+    padding-top: 150px;
+}
+
+a.navbar-brand {
+    width: 24%;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0rem;
+    padding-left: 0rem;
+}
+
+li.nav-item {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light {
+    align-items: baseline;
+}
+
+ul.navbar-nav.ml-auto {
+    column-gap: 20px;
+}
+
+#heading-text .span {
+    padding-left: 30px;
+}
+
+a.nav-link {
+    letter-spacing: 3px;
+    padding-bottom: 0px;
+}
+
+a.nav-link:hover {
+    border-bottom: 3px solid #AF663F;
+}
+
+a.nav-link.active {
+    border-bottom: 3px solid #AF663F;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light {
+
+    padding: 0px;
+}
+
+header#section1 {
+    padding-top: 25px;
+}
+
+#section1,
+#section2 {
+    background-color: #F4F7F4;
+    padding-top: 50px;
+}
+
+section#innersection p {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+}
+
+
+#section6 .col-md-6 {
+    padding: 10px 0px;
+}
+
+#innersection .col-md-4 {
+    padding-right: 90px;
+}
+
+#section8 .btnc {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #000000;
+    border: 3px solid #AF663F;
+    background: transparent;
+    padding: 15px 17px 14px;
+}
+#section5 a#myBtn {
+    background: transparent;
+    border: none;
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+    
+    letter-spacing: 0.02em;
+    
+    /* Primary */
+    
+    color: #AF663F;
+}
+#section8 .btnc:hover{
+    color: white;
+    background-color:#AF663F;
+}
+
+#section2 .row.first-row {
+    padding-top: 55px;
+    padding-bottom: 40px;
+}
+
+#section2 h5,
+#section3 h5 {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: 0.15em;
+    color: #AF663F;
+    padding-top: 12px;
+}
+
+#section2 h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 57px;
+    line-height: 73px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-bottom: 36px;
+    padding-right: 80px;
+}
+
+/* #section2 {
+    
+} */
+
+#innersection h2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+
+    letter-spacing: 0.01em;
+
+    color: #221E15;
+    padding-top: 28px;
+    padding-right: 50px;
+}
+
+hr {
+    margin-top: 30px;
+    width: 25px;
+    text-align: start;
+    margin-left: 0;
+    background-color: #AF663F;
+    height: 5px;
+}
+
+#iner-frame-sec .hr-tag {
+    width: 30px;
+    text-align: start;
+    margin-left: 0;
+    background-color: #f5f0ee;
+    height: 1.5%;
+}
+
+#iner-frame-sec .roooow {
+    padding-top: 50px;
+}
+
+#iner-frame-sec .sub-btn {
+    margin-top: -18px;
+}
+
+#innersection {
+    padding-top: 115px;
+    padding-bottom: 150px;
+}
+
+#section3 h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    letter-spacing: 0.0em;
+    color: #221E15;
+    padding-top: 120px;
+    padding-bottom: 70px;
+
+}
+
+.for-mobile {
+    display: none;
+}
+
+#section3 {
+    padding-bottom: 200px;
+    padding-top: 140px;
+}
+
+#section4 {
+    background-color: #AF663F;
+    padding: 159px 0px 110px;
+}
+
+#section4 h2 {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 163%;
+    text-align: center;
+    letter-spacing: 0.11em;
+    color: #FFFFFF;
+    padding-bottom: 50px;
+    padding-left: 212px;
+    padding-right: 212px;
+}
+
+#empty-card .row .col-md-4 {
+    text-align: center;
+}
+
+#section4 i.fa.fa-long-arrow-right {
+    font-size: 24px;
+    margin: 0px 0px 0px 10px;
+}
+
+#section4 .btn4 {
+    padding: 0px 0px 40px;
+}
+
+#heading-text .d-flex {
+    padding-left: 20px;
+}
+
+div#owl-crosal button.owl-dot,
+div#owl-best button.owl-dot {
+    background-color: #CDCDCD !important;
+    margin: 0px 4px;
+    width: 30px;
+    border-radius: 0px;
+    height: 5px;
+    z-index: 9999999;
+}
+
+/* div#owl-best button.owl-dot {
+    background-color: #CDCDCD !important;
+    margin: 0px 4px;
+    width: 35px;
+    border-radius: 10px;
+    height: 5px;
+    z-index: 9999999;
+} */
+
+div#owl-crosal button.owl-dot.active {
+    background-color: #fff !important;
+}
+
+div#owl-best button.owl-dot.active {
+    background-color: #AF663F !important;
+    opacity: 1;
+}
+
+div#owl-crosal .owl-dots,
+div#owl-best .owl-dots {
+    text-align: center;
+    padding-top: 55px;
+}
+
+div#owl-crosal .owl-stage-outer,
+div#owl-best .owl-stage-outer {
+    padding: 0px 0px 100px;
+}
+
+div#owl-crosal .owl-nav,
+div#owl-best .owl-nav {
+    display: none;
+}
+
+#section4 .link {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+/* #section4 span {
+    display: none;
+} */
+#section4 .btn4 {
+    text-align: center;
+    padding-bottom: 77px;
+}
+
+/* #section2 .container{
+    max-width: 1220px;
+} */
+/* #aboutus .col-md-9 p{
+    padding-right: 40px;
+} */
+#section5 {
+    background-image: url(../images/homesecback.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#section5 .colum1 {
+    background-color: #BEB69F;
+}
+
+
+#section5 .section-title {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+    padding-top: 20px;
+    padding-bottom: 180px;
+
+}
+
+.col-md-6.colum1 {
+    padding-top: 150px;
+    padding-right: 130px;
+    padding-bottom: 80px;
+}
+
+#section5 h2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 58px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    padding-bottom: 40px;
+}
+
+#section6 {
+    background-color: #EEE8E0;
+    padding: 160px 0px 140px;
+}
+
+#section6 h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    padding-bottom: 40px;
+    color: #221E15;
+    /* text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+}
+
+#section6 span {
+    border: 5px solid #AF663F;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#threecol span {
+    border: 4px solid #AF663F;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#section6 h2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-size: 45px;
+    line-height: 59px;
+    text-align: center;
+    padding: 0px 210px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-left: 250px;
+    padding-right: 272px;
+}
+
+#clum-card-section #owl-crosal {
+    display: none;
+}
+
+#section6 .col-md-6.borderleft,
+#section9 .col-md-6.borderleft {
+    border-right: 3px solid #AF663F;
+}
+
+/* #innersection .col-md-6 p {
+    padding-right: 97px;
+} */
+
+#section6 .row {
+    padding: 90px 0px 35px;
+}
+
+.justify-content-end {
+    -ms-flex-pack: end !important;
+    justify-content: flex-end !important;
+    align-items: baseline;
+}
+
+#section6 .btnn {
+    background: transparent;
+    border: none;
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 0.14em;
+    color: #AF663F;
+}
+
+#logo-emp .event {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+    padding-top: 115px;
+}
+
+#section6 .twobtn {
+    text-align: center;
+}
+
+#section7 .section-title {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #AF663F;
+}
+
+#section2 span {
+    padding-left: 59px;
+}
+
+#section7 h2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 62px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding: 66px 135px 0px 135px;
+}
+
+#section7 {
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+.btnnc {
+    padding: 22px 70px 18px 70px;
+    letter-spacing: 0.15em;
+    background-color: #221E15;
+    border: 3px solid#221E15 ;
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+}
+
+.btncenter {
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 50px;
+}
+
+#section7 .Caption2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    color: #221E15;
+    float: left;
+    /* padding: 10px 0px 0px 127px; */
+}
+
+a.btn-solid {
+    border: 3px solid #AF663F;
+    padding: 19px 40px 15px;
+    opacity: 0.2;
+    color: gray;
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.07em;
+    color: #221E15;
+
+}
+
+.btnsoli {
+    padding-top: 18px;
+    text-align: right;
+}
+
+#section7 .imag1 {
+    float: right;
+}
+
+#section7 .container {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#section7 .row {
+    padding-top: 100px;
+}
+
+#section8 h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #221E15;
+}
+
+#section8 {
+    background-color: #F4F7F4;
+}
+
+#section8 span {
+    border: 5px solid #AF663F;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#section7 .Caption1 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    color: #221E15;
+    padding-right: 285px;
+    padding-top: 12px;
+}
+
+#section7 .Caption2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    color: #221E15;
+    padding-right: 80px;
+    padding-top: 12px;
+}
+
+.btnc {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #000000;
+    border: 3px solid #AF663F;
+    background: transparent;
+    padding: 13px 10px 9px;
+}
+.btnc:hover{
+    background-color: #AF663F;
+    color: white !important;
+}
+#brand-action .btnc {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #000000;
+    border: 3px solid #AF663F;
+    background: transparent;
+    padding: 15px 38px 13px;
+}
+#brand-action .btnc:hover{
+    color:white;
+    background-color:#AF663F ;
+}
+a.btnc:hover {
+    color: black;
+}
+
+#footer .col-md-4 {
+    text-align: right;
+
+}
+
+.btn-explor {
+    text-align: center;
+}
+
+.btnc1 {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.07em;
+    color: #221E15;
+    border: 3px solid #AF663F;
+    background: transparent;
+    padding: 12px 10px 10px;
+}
+.btnc1:hover{
+    background-color: #AF663F;
+    color: white;
+}
+.btnlas1 {
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+#section9 {
+    background-color: #EEE8E0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#section9 .btnn {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 0.14em;
+    color: #AF663F;
+}
+#section9 .twobtn {
+    text-align: center;
+}
+
+#footer {
+    background-color: white;
+    padding-top: 3%;
+}
+
+#section2 .col-md-8,
+#aboutus .col-md-8,
+#heading-text .col-md-8 {
+    padding-left: 0px;
+}
+
+.about {
+    font-family: 'FoundersGrotesk-Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    /* text-align: center; */
+    letter-spacing: 0.15em;
+    color: #221E15;
+}
+
+ul li {
+    list-style: none;
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+    padding-top: 10px;
+}
+
+a.nav-link {
+    font-family: 'FoundersGrotesk-Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #221E15;
+}
+
+#brand-action .col-md-5.gapp {
+    padding-left: 0px;
+}
+
+#brand-action .col-md-5.for-space {
+    padding-right: 50px;
+}
+
+#imagesection {
+    background-image: url(../images/Rectangle\ back.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 721px;
+}
+
+#threecol .col-md-2.col-sm-3.col {
+    padding-left: 30px;
+}
+
+#backimgsec {
+    background-image: url(../images/Group\ 105.svg);
+    background-position: center right;
+    background-repeat: no-repeat;
+    padding: 130px 0px;
+    background-size: contain;
+}
+
+.col-md-2 {
+    padding: 0px;
+}
+
+#main-footer .bd-highlight {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #CDCDCD;
+}
+
+#main-footer .container {
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 1px solid #CDCDCD;
+    padding: 0px;
+}
+
+#main-footer {
+    padding-top: 30px;
+}
+
+#aboutus {
+    background-color: #BEB69F;
+    padding-top: 116px;
+    padding-bottom: 158px;
+}
+
+#aboutus .sectitle {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+    padding-bottom: 30px;
+    padding-top: 0px;
+}
+
+#aboutus .description {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 59px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    padding-top: 66px;
+    padding-right: 0px;
+}
+
+#imagesection {
+    background-image: url(../images/Rectangle\ 40.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#iner-frame-sec button[type=required] {
+    background: transparent;
+    color: rgb(180, 19, 19);
+    /* padding: 12px 20px; */
+    border: none;
+    cursor: pointer;
+    float: left;
+}
+
+#iner-frame-sec .least-title {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+    padding-bottom: 15px;
+}
+
+#iner-frame-sec .mail-section {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 59px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+#iner-frame-sec button[type=submit] {
+    background: transparent;
+    color: #CDCDCD;
+    padding: 12px 20px;
+    border: none;
+    float: right;
+    cursor: pointer;
+}
+
+#card-section {
+    background-color: #F4F7F4;
+    padding-top: 235px;
+    padding-bottom: 260px;
+}
+
+#card-section span {
+    border: 5px solid #AF663F;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#card-section h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-bottom: 80px;
+}
+
+.card-body {
+    padding: 0px;
+    background-color: #F4F7F4;
+}
+
+.card-title {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #221E15;
+}
+
+
+#card-section .card .card-img {
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 17px solid #AF663F;
+}
+
+.card-img {
+    background-image: url(../images/Rectangle\ 41.png);
+    height: 331px;
+}
+
+#card-section .card .card-img:hover {
+    border: 17px solid #AF663F;
+}
+
+#card-section .second {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#card-section .card {
+    border: none;
+}
+
+#card-section p {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #CDCDCD;
+}
+
+h5.card-title {
+    margin-bottom: 0px;
+    padding-top: 10px;
+}
+
+#clum-card-section {
+    background-color: #221E15;
+    padding-top: 190px;
+    padding-bottom: 230px;
+}
+
+#clum-card-section h2 {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 163%;
+    text-align: center;
+    letter-spacing: 0.11em;
+    color: #FFFFFF;
+    padding-bottom: 30px;
+
+}
+
+#clum-card-section h3 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 59px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    padding: 0px 155px 0px 155px;
+
+}
+
+#clum-card-section .row.second-roww {
+    padding-top: 76px;
+}
+
+#clum-card-section .row {
+    padding-top: 117px;
+}
+
+#brand-action h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+#brand-action .img-fluid {
+    max-width: 624px;
+    height: 662px;
+    width: 100%;
+}
+
+/* #brand-action .col-md-7{
+    padding-left: 98px;
+} */
+/* #brand-action .btnnc {
+    padding: 22px 70px 18px 70px;
+    letter-spacing: 0.15em;
+    background-color: #221E15;
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+} */
+/* section#brand-action .img-fluid {
+    max-width: 100%;
+    height: 100%;
+} */
+
+#brand-action h1 {
+    border: 5px solid #AF663F;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#brand-action p,
+#section22 p,
+#two-cards-image p {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+    padding-top: 25px;
+}
+
+#section8 p {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 59px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-left: 227px;
+    padding-right: 161px;
+    padding-top: 34px;
+    text-align: center;
+}
+
+#section8 {
+    padding-top: 200px;
+    padding-bottom: 150px;
+}
+
+#section8 .row {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#brand-action .small-title1 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 70px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #221E15;
+}
+
+#brand-action .link {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+
+}
+
+#brand-action .link a {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    color: #AF663F;
+}
+
+#brand-action .btnlas {
+    text-align: center;
+    padding-top: 50px;
+}
+
+section#brand-action {
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
+
+#brand-action .row.second,
+#brand-action .fourth {
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+
+#brand-action .parent {
+    padding-top: 57px;
+}
+
+#Dreaming {
+    background-color: #EEE8E0;
+    padding-top: 270px;
+    padding-bottom: 280px;
+}
+
+#Dreaming h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #221E15;
+}
+
+
+#img-with-text h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-top: 63px;
+}
+
+#two-cards-image h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-top: 50px;
+}
+
+#two-cards-image2 h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-top: 70px;
+}
+
+#two-cards-image img.img-fluid {
+    margin-top: 200px;
+}
+
+#Dreaming span,
+#img-with-text span {
+    border: 4px solid #AF663F;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#embricing-section .container {
+    max-width: 1300px !important;
+}
+
+section#flip-card {
+    padding-top: 100px;
+}
+
+.col-md-6.midimg-col {
+    padding-right: 55px;
+}
+
+#img-with-text h2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 59px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding: 34px 100px 0px 100px;
+
+}
+
+#img-with-text .btncenter {
+    padding-top: 65px;
+    padding-bottom: 0px;
+}
+
+#Dreaming h2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 59px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding: 32px 135px 0px 135px;
+}
+
+#paragraph .col-md-7 {
+    padding-right: 75px;
+}
+
+#embricing-section .oversezing-heading {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 102px;
+    line-height: 112px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    padding-top: 210px;
+    padding-bottom: 185px;
+}
+
+#text-with-img .Oversized-Headline {
+    position: absolute;
+    top: -72px;
+    left: 0;
+    right: 0;
+}
+
+#text-with-img .head {
+    position: relative;
+    text-align: center;
+}
+
+section#two-cards-image {
+    padding-top: 0px;
+    padding-bottom: 450px;
+    background-repeat: no-repeat;
+    background-image: url(../images/Comp1.svg);
+    background-size: contain;
+    background-position: left center;
+}
+
+section#two-cards-image2 .row.card-2 .col-md-6 {
+    margin-top: -330px;
+}
+
+section#two-cards-image2 {
+    padding-bottom: 190px;
+}
+
+#sect-last h1 {
+    padding-top: 88px;
+}
+
+#section22 p {
+    padding-bottom: 66px;
+}
+
+#section22 .btnc1,
+#two-cards-image .btnc1,
+#two-cards-image2 .btnc1 {
+    padding: 12px 36px 10px;
+}
+
+#paragraph p {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 59px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+section#paragraph {
+    padding-top: 195px;
+    padding-bottom: 160px;
+}
+
+/* img.img1 {
+    padding-top: 35%;
+    height: 285px;
+    text-align: center;
+    width: 90px;
+} */
+#threecol .lie {
+    border: 4px solid #AF663F;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-top: 25px;
+}
+
+#threecol .row.two {
+    padding-bottom: 30px;
+}
+
+#testimonial .section-title {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #AF663F;
+    padding-bottom: 100px;
+}
+
+#testimonial p {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #221E15;
+}
+
+#testimonial div#owl-best .owl-stage-outer {
+    padding-bottom: 70px;
+}
+
+section#testimonial {
+    padding-top: 200px;
+    padding-bottom: 140px;
+}
+
+#testimonial #owl-crosal .owl-stage-outer {
+    padding: 0px 0px 100px;
+}
+
+#testimonial#owl-crosal button.owl-dot.active {
+    background-color: #fff !important;
+}
+
+#testimonial#owl-crosal button.owl-dot {
+    background-color: #CDCDCD !important;
+    margin: 0px 4px;
+    width: 35px;
+    border-radius: 10px;
+    height: 5px;
+    z-index: 9999999;
+}
+
+#testimonial#owl-crosal .owl-nav {
+    display: none;
+}
+
+#testimonial .small-title {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #221E15;
+    padding-top: 20px;
+}
+
+#text-farm h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #221E15;
+}
+
+#threecol .col-md-3.col-sm-3.col.thrd {
+    padding-left: 75px;
+}
+
+img.card-img-top-fist {
+    height: 432px;
+}
+
+#flip-card2 .col-md-6.flip-card-row {
+    padding-top: 0px;
+}
+
+#iner-frame-sec {
+    background-color: #221E15;
+    padding-bottom: 150px;
+    padding-top: 20px;
+}
+
+#iner-frame-sec .container {
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+#iner-frame-sec .event-title {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+}
+
+#iner-frame-sec input[type=text],
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 0px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+#text-farm .col-md-6 {
+    padding-top: 160px;
+    padding-bottom: 160px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+#text-farm p {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 30px;
+    color: #221E15;
+    text-align: center;
+    padding-left: 85px;
+    padding-right: 85px;
+    padding-top: 115px;
+}
+
+#text-farm input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    /* resize: vertical; */
+}
+
+#section2 .service-sec1 h1 {
+    padding-right: 95px;
+}
+
+#section2 .service-sec1 section#innersection p {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+}
+
+#text-farm button[type=required] {
+    background: transparent;
+    color: rgb(180, 19, 19);
+    padding: 12px 20px;
+    border: none;
+
+    cursor: pointer;
+}
+
+#text-farm button[type=submit] {
+    background: transparent;
+    color: #CDCDCD;
+    padding: 12px 20px;
+    border: none;
+    float: right;
+    cursor: pointer;
+}
+
+section#text .smll-text {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+}
+
+section#text-farm {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgb(199, 195, 195);
+
+}
+
+/* <!--Gallery--> */
+#threecol {
+    background-color: #F4F7F4;
+}
+
+#threecol h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 74px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+}
+
+section#threecol {
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+
+.smtitle {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+
+    /* Black */
+    padding-right: 15px;
+    color: #221E15;
+}
+
+#sec-heading .for-line {
+    padding: 10px 0px 35px;
+    align-items: baseline;
+}
+
+section#cards-with-body {
+    border-top: 3px solid #AF663F;
+}
+
+a#dropdownMenuLink {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #AF663F;
+    border: 3px solid #AF663F;
+    padding: 10px 20px 5px;
+}
+
+#sec-card2 .a-btn {
+    padding-top: 45px;
+}
+
+.redmorebtn {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 0.02em;
+    color: #AF663F;
+    border: none;
+}
+
+
+
+#img .larg-title {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 32px;
+    letter-spacing: 0.08em;
+    color: #221E15;
+    padding-top: 51px;
+}
+
+#img p {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+}
+
+/* .larg-title {
+    padding-top: 35px;
+} */
+#img a#myBtn {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 0.02em;
+    color: #AF663F;
+}
+a#myBtn {
+    background: transparent;
+    border: none;
+    color: #AF663F;
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0.15em;
+}
+
+#myBtn i.fa.fa-long-arrow-right {
+    font-size: 25px;
+}
+
+#sec-card1 {
+    padding-top: 105px;
+    padding-bottom: 0px;
+}
+
+#sec-card1 p.card-text,
+#sec-card3 p.card-text,
+#sec-card2 p.card-text {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+}
+
+#sec-card2 {
+    padding-top: 105px;
+    padding-bottom: 50px;
+}
+
+#sec-card3 {
+    padding-top: 105px;
+    padding-bottom: 100px;
+}
+
+#sec-card1 .card,
+#sec-card2 .card,
+#sec-card3 .card {
+    border: none;
+}
+
+#sec-card1 a#myBtn,
+#sec-card2 a#myBtn,
+#sec-card3 a#myBtn {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 0.02em;
+    color: #AF663F;
+}
+
+#sec-card3 .btncenter {
+    text-align: center;
+    padding-top: 126px;
+    padding-bottom: 50px;
+}
+
+#sec-card1 .card-title,
+#sec-card2 .card-title,
+#sec-card3 .card-title {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 32px;
+    letter-spacing: 0.08em;
+    color: #221E15;
+    padding-top: 50px;
+}
+
+#heading-text h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+}
+
+#heading-text {
+    padding-top: 111px;
+    padding-bottom: 40px;
+}
+
+#brand-action h2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 59px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-top: 74px;
+    padding-bottom: 220px;
+}
+
+img.imglast {
+    text-align: center;
+    width: 60%;
+}
+
+#empty-card {
+    padding-top: 190px;
+    padding-bottom: 190px;
+    background-color: #EEE8E0;
+}
+
+#empty-image {
+    padding-top: 220px;
+    padding-bottom: 220px;
+    background-color: #F4F7F4;
+    text-align: center;
+}
+
+
+i.fa.fa-chevron-right {
+    padding-left: 25px;
+}
+
+#logo-emp {
+    background-color: #C4C4C4;
+    padding-bottom: 570px;
+}
+
+section#sect-last {
+    padding-top: 100px;
+    /* padding-bottom: 50px; */
+}
+
+.event {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+    padding-top: 55px;
+}
+
+
+#text {
+    background-color: #EEE8E0;
+    padding-bottom: 245px;
+}
+
+#text h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 74px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding: 164px 0px 0px 0px;
+}
+
+.smll-text {
+    padding-top: 89px;
+}
+
+#sec-heading span {
+    border: 5px solid #AF663F;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+
+}
+
+#sec-heading h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    text-align: center;
+    padding-bottom: 77px;
+}
+
+/* section#cards-with-body {
+    padding-top: 65px;
+} */
+
+#sec-heading {
+    padding-bottom: 132px;
+    padding-top: 0px;
+}
+
+
+#img-with-text {
+    background-color: #F4F7F4;
+    padding-top: 243px;
+    text-align: center;
+    padding-bottom: 160px;
+}
+
+button.btn11 {
+    border: 3px solid #AF663F;
+    padding: 14px 50px 10px;
+    background: transparent;
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.07em;
+    color: #221E15;
+}
+button.btn11:hover{
+    background-color: #AF663F;
+    color: white;
+}
+#cards-with-body .card {
+    padding: 30px;
+    border: none;
+    border-radius: 0px;
+}
+
+#cards-with-body .card-header {
+    padding: 0px;
+    background-color: white;
+    padding: 21px 0px;
+    border: none;
+}
+
+#cards-with-body .card-body {
+    padding: 0px;
+    background-color: white;
+}
+
+#heading-display h5 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.15em;
+    color: #AF663F;
+    padding-top: 0px;
+}
+
+#cards-with-body h5 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.15em;
+    color: #AF663F;
+    padding-top: 24px;
+}
+
+#cards-with-body .card i.fa.fa-heart-o {
+    color: #CDCDCD;
+}
+
+#heading-display h6 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+    padding-bottom: 25px;
+    text-transform: capitalize;
+}
+
+#cards-with-body h6 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+    text-transform: capitalize;
+}
+
+.card-img,
+.card-img,
+.card-img-top {
+    border-radius: 0px !important;
+}
+
+.card-header {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+    padding-bottom: 11px;
+}
+
+#cards-with-body .row {
+    padding-top: 65px;
+    padding-bottom: 0px;
+}
+
+button.btn1 {
+    border: 3px solid #090909;
+    background-color: #090909;
+    padding: 15px 25px 15px;
+    float: right;
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+}
+button.btn1:hover{
+    color: #090909;
+    border: 3px solid #090909;
+    background-color: transparent;
+}
+/* #cards-with-body .two-buttons {
+    padding-top: 91px;
+    padding-bottom: 0px;
+} */
+
+button.btn2 {
+    background: transparent;
+    border: 3px solid #AF663F;
+    padding: 15px 25px 15px;
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #221E15;
+}
+button.btn2:hover{
+    background-color:#AF663F ;
+    color: white;
+}
+#cards-with-body .card-img-top {
+    border-radius: 10px;
+    /* border-top: 10px solid #AF663F; */
+}
+
+.two-buttons {
+    padding-top: 130px;
+    padding-bottom: 0px;
+}
+
+#flip-card2 .two-imag {
+    padding-top: 30px;
+    padding-bottom: 85px;
+}
+
+.event1 {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0.15em;
+    padding-top: 16px;
+    color: #AF663F;
+}
+
+#sec.event1 {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0.15em;
+    padding-top: 0px;
+    color: #AF663F;
+}
+
+#sec-heading .smtitle1,
+#sec-heading .smtitle2 {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    /* line-height: 31px; */
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+    /* padding-top: 16px; */
+    color: #AF663F;
+
+}
+
+#heading-display .section-title,
+
+#section21 .section-title,
+#section22 .section-title,
+#sect-last .section-title,
+#backimgsec .section-title {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0.15em;
+    color: #AF663F;
+}
+
+#text-with-img .section-title {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #AF663F;
+    padding-top: 127px;
+}
+
+#heading-display h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-top: 35px;
+}
+
+#section22 h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-top: 10px;
+}
+
+.culum-text-img {
+    background-image: url(../images/Vector11.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#sect-last h1 {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 74px;
+    letter-spacing: 0.0em;
+    color: #221E15;
+    margin: 0;
+
+}
+
+#two-cards-image2 p {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+    padding-top: 0px;
+    padding-right: 110px;
+}
+
+#heading-display {
+    padding-top: 42px;
+}
+
+#heading-display .container {
+    padding-bottom: 80px;
+    border-bottom: 3px solid #AF663F;
+}
+
+#flip-card p.p-tag {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+    padding: 0px 90px 0px 0px;
+}
+
+#flip-card p.para2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+    /* padding: 0px 50px 0px 50px; */
+}
+
+#flip-card p.para1 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+    padding: 140px 105px 0px 0px;
+}
+
+#flip-card2 .btnlas {
+    text-align: center;
+
+}
+
+#flip-card2 .row.too {
+    padding-top: 137px;
+    padding-bottom: 0px;
+}
+
+#flip-card .row.too {
+    padding-top: 40px;
+}
+
+section#logo-emp1 {
+    padding-top: 93px;
+}
+
+#logo-emp1 .event1 {
+    padding-bottom: 30px;
+}
+
+#flip-card .row.threeee {
+    padding-top: 137px;
+    border-bottom: 1px solid #221E15;
+    padding-bottom: 100px;
+}
+
+#flip-card2 .row.thteeee {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#only-text .only-text-cal1 {
+    padding-right: 170px;
+}
+
+#only-text .only-text-cal2 {
+    padding-right: 222px;
+}
+
+#only-text p {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+    padding-top: 55px;
+    padding-bottom: 141px;
+}
+
+#imagesection1 {
+    background-image: url(../images/Rectangle\ 40.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+
+.col-md-6.flip-card-row img.img2 {
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+#flip-card2 {
+    padding-top: 104px;
+    padding-bottom: 151px;
+}
+
+#flip-card2 h2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 59px;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-right: 100px;
+    padding-top: 0px;
+}
+
+#flip-card2 .btnlas {
+    padding-top: 62px;
+}
+
+#flip-card2 .col-md-6.twoo {
+    padding-right: 75px;
+}
+
+#flip-card2 p {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+
+}
+
+#text-with-img .btnlas {
+    text-align: center;
+    padding-top: 106px;
+}
+
+#text-with-img .btnlas2 {
+    text-align: center;
+    padding-top: 61px;
+}
+
+#text-with-img .Oversized-Headline {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 113px;
+    line-height: 120px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+    text-align: center;
+}
+
+#text-with-img h2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 59px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-top: 85px;
+    padding-left: 160px;
+    padding-right: 160px;
+
+}
+
+/* #text-with-img h2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #221E15;
+    padding-top: 126px;    
+    padding-left: 88px;
+    padding-right: 88px;
+
+} */
+/* #text-with-img2 .Oversized-Headline {
+    font-family: 'Canela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 113px;
+    line-height: 120px;
+    letter-spacing: 0.02em;
+    color: #221E15;
+    text-align: center;
+} */
+
+
+#flip-card2 .col-md-6.two-for-pading {
+    padding-right: 59px;
+}
+
+#flip-card2 .col-md-6.for-pading {
+    padding-right: 40px;
+    /* height: 78px; */
+}
+
+#flip-card2 .col-md-6.for-pading .img-fluid {
+    width: 563px;
+    height: 645px;
+}
+
+#flip-card2 .btnlas2 {
+    padding-top: 45px;
+}
+
+#section25 h2 {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 59px;
+    letter-spacing: 0.01em;
+    color: white;
+    padding-top: 72px;
+    padding-bottom: 64px;
+}
+
+#text-with-img {
+    padding-top: 255px;
+    padding-bottom: 111px;
+
+}
+
+#text-with-img .btnc {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #000000;
+    border: 3px solid #AF663F;
+    background: transparent;
+    padding: 10px 50px 8px;
+}
+#text-with-img .btnc:hover{
+    color: white;
+    background-color:#AF663F ;
+}
+#two-cards-image .row {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#section22 .row {
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+
+
+.sub-button {
+    margin-top: -45px;
+}
+
+#footer .col-md-3 {
+    padding: 0px;
+}
+
+i.fa.fa-long-arrow-right {
+    font-size: 15px;
+}
+
+/* #ineer-sec {
+    background-image: url('../images/Group\ 105.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#ineer-sec .container{
+    padding-top: 130px;
+    padding-bottom: 130px;
+  
+}
+.culum-text-img{
+background-image: url('../images/Vector.png');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+} */
+
+
+
+
+/*update css*/
+
+#owl-crosal .owl-item.cloned {
+    opacity: 0.3;
+}
+
+#owl-crosal .owl-item.active {
+    opacity: 1;
+}
+
+#owl-crosal .owl-item {
+    opacity: 0.3;
+}
+
+section#join_our_talent {
+    background-color: #AF663F;
+    padding: 159px 0px;
+    text-align: center;
+}
+
+#owl-best .owl-item {
+    opacity: 0.3;
+}
+
+#owl-best .active {
+    opacity: 0.3;
+}
+
+#owl-best .center {
+    opacity: 1;
+}
+
+section#join_our_talent .link {
+    font-family: 'Founders Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+section#join_our_talent h2 {
+    font-family: 'Maison Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 163%;
+    text-align: center;
+    letter-spacing: 0.11em;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+    padding-left: 212px;
+    padding-right: 212px;
+}
+
+/*End updated CSS*/
+@media only screen and (max-width: 600px) {
+    #flip-card2 .col-md-6.two-for-pading {
+        padding-right: 20px;
+    }
+
+    .col-md-6.flip-card-row svg {
+        width: 96px;
+        height: 36px;
+    }
+
+    #owl-best .item {
+        padding: 0px 20px;
+    }
+
+    #brand-action .img-fluid {
+        height: unset;
+    }
+
+    div#owl-crosal .owl-dots {
+        padding-top: 0px;
+    }
+
+    section#join_our_talent {
+        background-color: #AF663F;
+        padding: 71px 0px;
+        text-align: center;
+    }
+
+    section#join_our_talent h2 {
+        font-size: 22px;
+        padding-left: 10px;
+        padding-right: 10px;
+        line-height: 33px;
+    }
+
+    #innersection h2 {
+        padding-top: 10px;
+    }
+
+    #section6 .row {
+        padding: 0px;
+    }
+
+    #section4 h2 {
+        padding-bottom: 20px;
+    }
+
+    #section4 .btn4 {
+        padding-bottom: 39px;
+    }
+
+    #section8 .btnc {
+        padding: 16px 45px;
+    }
+
+    #section8 span {
+        padding-bottom: 10px;
+        border-bottom: 3px solid #AF663F;
+    }
+
+    #section7 .Caption2 {
+        font-size: 20px;
+    }
+
+    .twobtn_border {
+        padding-top: 0px;
+        border-top: solid 1px #fff;
+    }
+    #section6 .twobtn {
+        padding-top: 47px;
+        padding-bottom: 47px !important;
+        text-align: center;
+    }
+    hr {
+        margin-top: 30px;
+        width: 35px;
+        text-align: start;
+        margin-left: 0;
+        background-color: #AF663F;
+        height: 3px;
+    }
+
+    #footer .secound .col-md-8 {
+        order: 2;
+    }
+
+    #footer .secound .col-md-4 {
+        order: 1;
+    }
+
+    #footer .secound .col-md-8 .row .col-md-3:nth-child(4) {
+        order: 7;
+    }
+
+    #footer .secound .col-md-8 .row .col-md-3:nth-child(8) {
+        order: 8;
+    }
+
+    #footer .secound .col-md-8 .row {
+        padding: 0px;
+    }
+
+    a.navbar-brand {
+        width: 186px;
+
+    }
+
+    #main-footer .bd-highlight {
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #CDCDCD;
+    }
+
+    #section25 .textarea {
+        margin-top: 0.5%;
+    }
+
+    #clum-card-section .row {
+        display: none;
+    }
+
+    #clum-card-section #owl-crosal {
+        display: block;
+    }
+
+    #clum-card-section #owl-crosal .item {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #clum-card-section div#owl-crosal .owl-stage-outer {
+        padding: 30px 0px 52px;
+    }
+}
+
+
+
+@media only screen and (max-width: 1400px) and (min-width: 1000px) {
+    /* #brand-action .row {
+        padding-top: 25px;
+        padding-bottom: 35px;
+    } */
+
+    a.navbar-brand {
+        width: 235px;
+    }
+
+    #section25 textarea#subject {
+        margin-top: -5px;
+    }
+
+}
+
+@media only screen and (max-width: 900px) and (min-width: 700px) {
+    #cards-with-body .card-header {
+
+        font-size: 18px;
+        padding-bottom: 8px;
+    }
+
+    a#dropdownMenuLink {
+        font-size: 15px;
+        padding: 8px 20px 0px;
+    }
+
+    .smtitle,
+    #sec-heading .smtitle1,
+    #sec-heading .smtitle2 {
+        font-size: 15px;
+    }
+
+    .two-buttons {
+        padding-top: 67px;
+        padding-bottom: 67px;
+    }
+
+    #cards-with-body h5,
+    #cards-with-body h6 {
+        font-size: 14px;
+        line-height: 11px;
+    }
+    #heading-display h6 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    #sect-last .section-title,
+    #backimgsec .section-title {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    #cards-with-body .card {
+        padding: 11px;
+    }
+
+    #heading-display h5 {
+        font-size: 18px;
+        line-height: 18px;
+        padding-top: 0px;
+    }
+
+    #flip-card p.para1 {
+        padding: 50px 0px 0px 0px;
+    }
+
+    section#flip-card {
+        padding-top: 50px;
+    }
+
+    #only-text p {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    section#logo-emp1 {
+        padding-top: 15px;
+    }
+
+    #flip-card p.p-tag,
+    #flip-card p.para1,
+    #flip-card p.para2 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    #brand-action p,
+    #section22 p,
+    #two-cards-image p,
+    #two-cards-image2 p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-top: 15px;
+    }
+
+    #section2 h1 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+
+    #section2 h5,
+    #section3 h5 {
+        font-size: 18px;
+        padding-top: 2px;
+    }
+
+    #section8 .row {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #section7 .container {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #section4 .btn4 {
+        padding-bottom: 0px;
+    }
+
+    #imagesection {
+        height: 500px;
+    }
+
+    #brand-action h1 {
+        font-size: 38px;
+        line-height: 42px;
+    }
+    #brand-action .img-fluid {
+        max-width: 624px;
+        height: 500px;
+        width: 100%;
+    }
+    #brand-action p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-top: 5px;
+    }
+
+    #brand-action .small-title1 {
+        font-size: 18px;
+        line-height: 15px;
+        padding-top: 30px;
+    }
+
+    #brand-action .link a {
+        font-size: 18px;
+        line-height: 40px;
+    }
+    #brand-action .col-md-5.gapp {
+        padding-left: 50px;
+    }
+    #text-with-img .Oversized-Headline {
+        top: -20px;
+    }
+
+    #brand-action .row.second,
+    #brand-action .fourth {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    section#brand-action {
+        padding-top: 0px;
+        padding-bottom: 50px;
+    }
+
+    #brand-action .btnlas {
+        padding-top: 25px;
+    }
+    #section2 .col-md-8, #aboutus .col-md-8, #heading-text .col-md-8 {
+        padding-left: 85px;
+    }
+    #Dreaming h1,
+    #img-with-text h1 {
+        font-size: 34px;
+        line-height: 50px;
+
+    }
+
+    #two-cards-image h1 {
+        font-size: 33px;
+        line-height: 40px;
+
+    }
+
+    #two-cards-image .btnlas1 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #Dreaming h2,
+    #img-with-text h2 {
+        font-size: 24px;
+        line-height: 40px;
+    }
+
+    #heading-text h1 {
+        font-size: 36px;
+        line-height: 40px;
+        padding-top: 5px;
+    }
+    #innersection .col-md-4 {
+        padding-right: 0px;
+    }
+    #card-section .card-img {
+        height: 200px;
+    }
+    section#join_our_talent h2 {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 147%;
+        text-align: center;
+        letter-spacing: 0.11em;
+        color: #FFFFFF;
+        padding-bottom: 20px;
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+    section#brand-action {
+        padding-top: 20px;
+        padding-bottom: 120px;
+    }
+
+    #brand-action h2 {
+        font-size: 30px;
+        line-height: 30px;
+        padding-top: 27px;
+        padding-bottom: 85px;
+    }
+
+    #Dreaming {
+        background-color: #EEE8E0;
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    #innersection h2 {
+        font-size: 22px;
+    }
+
+    #footer .col-md-2 {
+        padding-top: 0px;
+    }
+
+    #section3 h1 {
+        font-size: 30px;
+        line-height: 40px;
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    .event1 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    #heading-display .section-title {
+
+        font-size: 20px;
+        line-height: 15px;
+
+    }
+
+    #section3 {
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+
+    #section4 h2 {
+        padding-bottom: 25px;
+        font-size: 22px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #section4 {
+        padding: 30px 0px 30px;
+    }
+
+    .col-md-6.colum1 {
+        padding-top: 50px;
+        padding-right: 125px;
+        padding-bottom: 20px;
+    }
+
+    #section5 h2 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    #section5 .section-title {
+        padding-bottom: 20px;
+    }
+  
+    #section6 h1 {
+        font-size: 30px;
+        line-height: 20px;
+        padding-bottom: 22px;
+    }
+
+    #section6 h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    #section6 .btnn {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    #section7 h2 {
+        font-size: 25px;
+        line-height: 40px;
+        padding-top: 30px;
+    }
+
+    #section7 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #section7 .Caption1,
+    #section7 .Caption2 {
+        padding-right: 0px;
+        padding-top: 0px;
+    }
+
+    #section8 h1 {
+        font-size: 45px;
+    }
+    #section5 a#myBtn {
+        font-family: 'Founders Grotesk';
+        font-size: 22px;
+    }
+    #section8 p {
+        font-size: 25px;
+        line-height: 40px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+    }
+
+    .btnc {
+        font-size: 18px;
+        line-height: 0px;
+        padding: 10px 6px;
+    }
+
+    #section8 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #section9 .btnn {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    #section6 {
+        padding: 50px 0px 50px;
+    }
+
+    #section7 .section-title {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    #section6 h2 {
+        padding: 0px 100px;
+    }
+
+    #aboutus .description {
+        font-size: 22px;
+        line-height: 32px;
+        padding-top: 25px;
+
+    }
+
+    #card-section h1 {
+        font-size: 35px;
+        line-height: 35px;
+        padding-bottom: 60px;
+    }
+
+    #card-section {
+        padding-top: 85px;
+        padding-bottom: 100px;
+    }
+
+    .card-title {
+        font-size: 15px;
+        line-height: 16px;
+    }
+
+    #card-section p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    #clum-card-section h2 {
+        font-size: 20px;
+        line-height: 0%;
+    }
+
+    #clum-card-section h3 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    #clum-card-section .row {
+        padding-top: 30px;
+    }
+
+    #threecol h1 {
+        font-size: 30px;
+        line-height: 47px;
+    }
+
+    #sec-card3 .btncenter {
+        text-align: center;
+        padding-top: 55px;
+        padding-bottom: 50px;
+    }
+
+    section#threecol {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    #sec-card1 p.card-text,
+    #sec-card2 p.card-text,
+    #sec-card3 p.card-text ,#img p {
+        font-size: 18px;
+        line-height: 24px;
+        padding-top: 15px;
+    }
+
+ 
+    #sec-card1 a#myBtn,
+    #sec-card2 a#myBtn,
+    #sec-card3 a#myBtn ,#img a#myBtn {
+        font-size: 22px;
+        line-height: 16px;
+    }
+
+    #myBtn i.fa.fa-long-arrow-right {
+        font-size: 18px;
+    }
+    #sec-card2 .a-btn {
+        padding-top: 14px;
+    }
+    #sec-card1 .card-title,
+    #sec-card2 .card-title,
+    #sec-card3 .card-title , #img .larg-title {
+        font-size: 18px;
+        line-height: 15px;
+        padding-top: 35px;
+    }
+#footer svg {
+    width: 90px;
+    height: 30px;
+}
+    #sec-card1,
+    #sec-card2,
+    #sec-card3 {
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+
+    .btnnc {
+        padding: 18px 20px 18px 22px;
+        font-size: 18px;
+    }
+
+    #clum-card-section .row.second-roww {
+        padding-top: 35px;
+    }
+
+    #clum-card-section {
+        background-color: #221E15;
+        padding-top: 55px;
+        padding-bottom: 65px;
+    }
+
+    #aboutus {
+        background-color: #BEB69F;
+        padding-top: 15px;
+        padding-bottom: 65px;
+    }
+
+    #text-with-img h2 {
+        font-size: 31px;
+        line-height: 35px;
+        padding-top: 40px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #empty-card {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+
+    #empty-image {
+        padding-top: 130px;
+        padding-bottom: 130px;
+    }
+
+    #empty-image .img-fluid {
+        max-width: 70%;
+    }
+    section#text-with-img{
+        padding-top: 100px;
+    }
+    #text-with-img .Oversized-Headline {
+        font-size: 45px;
+        line-height: 30px;
+        text-align: center;
+        padding-bottom: 25px;
+    }
+
+    #section22 h1 {
+        padding-top: 14px;
+    }
+
+    #text-farm h1 {
+
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    #text-farm p {
+        text-align: center;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+    }
+
+    img.img1 {
+        height: 114px;
+    }
+
+    #testimonial div#owl-best .owl-stage-outer {
+        padding-bottom: 0px;
+    }
+
+    #brand-action .row {
+        padding-top: 15px;
+        padding-bottom: 25px;
+    }
+
+    #brand-action .parent {
+        padding-top: 5px;
+    }
+    #heading-text {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    a#myBtn {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+       
+    }
+    header#section1 {
+        padding-top: 0px;
+    }
+    #section2 .row.first-row {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    #section2 {
+        background-color: #F4F7F4;
+        padding-top: 30px;
+    }
+    #embricing-section .oversezing-heading {
+        font-size: 51px;
+        line-height: 60px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    section#paragraph {
+        padding-top: 65px;
+        padding-bottom: 35px;
+    }
+
+    #testimonial .section-title {
+        font-size: 18px;
+        line-height: 25px;
+        padding-bottom: 35px;
+    }
+
+    #testimonial p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    #testimonial .small-title {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    section#testimonial {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+
+    #text-farm h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    section#text-farm {
+        padding: 25px;
+
+    }
+
+    #text-farm p {
+        font-size: 18px;
+        line-height: 25px;
+        padding-top: 0px;
+    }
+
+    #text-farm .col-md-6 {
+        padding-top: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+    }
+
+    #flip-card p.p-tag {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #flip-card .para1 {
+        padding-top: 0px;
+    }
+
+    #heading-display .btn-solid {
+        font-size: 18px;
+        padding: 14px 15px;
+    }
+
+    #heading-display .btnsoli {
+        padding-top: 5px;
+    }
+
+    #paragraph p {
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 34px;
+    }
+
+    #section25 textarea#subject {
+        margin-top: -3px;
+    }
+
+    #iner-frame-sec .container {
+        /* background-color: white; */
+        padding-top: 20px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    #iner-frame-sec .least-title {
+        font-size: 18px;
+        line-height: 25px;
+        padding-bottom: 10px;
+    }
+
+    #iner-frame-sec .mail-section {
+        font-size: 30px;
+        line-height: 59px;
+    }
+    #flip-card2 .col-md-6.for-pading .img-fluid {
+        width: 563px;
+        height: 455px;
+    }
+    #iner-frame-sec {
+        padding-bottom: 50px;
+    }
+
+    #iner-frame-sec .roooow {
+        padding-top: 15px;
+    }
+
+    #footer img.img {
+        width: 100px;
+        padding-left: 35px;
+    }
+
+    #innersection {
+        padding-top: 35px;
+    }
+
+    .event {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    #logo-emp {
+        padding-bottom: 350px;
+    }
+
+    #text h1 {
+        font-size: 42px;
+        line-height: 54px;
+        padding-top: 88px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 100px;
+    }
+
+    #text {
+        padding-bottom: 100px;
+    }
+
+    .smll-text {
+        padding-top: 0px;
+    }
+
+    #sec-heading h1 {
+        font-size: 36px;
+        line-height: 0px;
+    }
+
+    button.btn1,
+    button.btn2 {
+        padding: 10px 15px;
+        font-size: 18px;
+
+    }
+    button.btn11 {
+        padding: 10px 35px 6px;
+        font-size: 18px;
+
+    }
+    #threecol .col-md-2.col-sm-3.col {
+        padding-left: 20px;
+    }
+    #threecol .col-md-3.col-sm-3.col.thrd {
+        padding-left: 49px;
+    }
+    img.card-img-top-fist {
+        height: 254px;
+    }
+    #sec-heading {
+        padding-bottom: 0px;
+        padding-top: 50px;
+    }
+
+    #img-with-text {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .btncenter {
+        padding-top: 55px;
+        padding-bottom: 25px;
+    }
+
+    #sect-last h1,
+    #section22 h1 {
+        font-size: 20px;
+        line-height: 32px;
+        padding-top: 15px;
+    }
+
+    #two-cards-image2 h1 {
+        font-size: 33px;
+        line-height: 40px;
+    }
+    #section25 .event {
+        padding-top: 50px;
+    }
+    #heading-display h1 {
+        font-size: 33px;
+        line-height: 43px;
+        padding-top: 38px;
+    }
+
+    #heading-display .line {
+        padding: 0px 0px;
+
+    }
+
+    #flip-card p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    #heading-display {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    #flip-card .row.too,
+    #flip-card .row.threeee,
+    #flip-card2 .row.too,
+    #flip-card2 .row.thteeee {
+        padding-top: 35px;
+        /* padding-bottom: 25px; */
+    }
+
+    #flip-card2 h2 {
+        font-size: 25px;
+        line-height: 37px;
+        padding-top: 30px !important;
+    }
+
+    #flip-card2 p {
+        font-size: 17px;
+        line-height: 23px;
+    }
+    #two-cards-image2 .img-fluid {
+        max-width: 100%;
+        height: 680px;
+    }
+    #flip-card2 .img-fluid {
+        max-width: 100%;
+        height: 545px;
+    }
+    #flip-card2 {
+        padding-top: 50px;
+    }
+    #flip-card2 svg {
+        width: 150px;
+        height: 65px;
+    }
+    img.img2 {
+        width: 150px;
+    }
+
+    #flip-card2 .btnc {
+        font-size: 16px;
+        line-height: 0px;
+        padding: 22px 26px 20px;
+    }
+
+    .about {
+        font-size: 13px;
+        line-height: 21px;
+    }
+
+    #text-with-img .section-title {
+        font-size: 18px;
+        line-height: 30px;
+        padding-top: 18px;
+    }
+
+    #text-with-img .btnlas {
+        text-align: center;
+        padding-top: 35px;
+    }
+
+    #text-with-img {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    #flip-card2 .btnlas {
+        text-align: center;
+        padding-top: 23px;
+    }
+
+    #section25 h2 {
+        font-size: 30px;
+        line-height: 30px;
+        padding-top: 40px;
+    }
+
+    #only-text .only-text-cal1,
+    #only-text .only-text-cal2 {
+        padding-right: 0px;
+    }
+
+    #heading-display h1,
+    #sect-last h1 {
+        font-size: 33px;
+        line-height: 43px;
+        padding-top: 38px;
+    }
+
+    #section22 h1 {
+        font-size: 33px;
+        line-height: 43px;
+        padding-top: 15px;
+    }
+
+    #logo-emp .event {
+        font-size: 20px;
+        padding-top: 30px;
+    }
+
+    section#two-cards-image2 {
+        padding-bottom: 50px;
+    }
+
+    #section22 .btnc1,
+    #two-cards-image .btnc1,
+    #two-cards-image2 .btnc1 {
+        padding: 10px 20px 9px;
+    }
+}
+
+@media only screen and (max-width: 500px) and (min-width: 300px) {
+    .col-md-6.colum1 {
+        padding-bottom: 30px;
+    }
+
+    a.navbar-brand {
+        width: 185px;
+    }
+
+    #text-with-img .Oversized-Headline {
+        top: -27px;
+    }
+
+    section#logo-emp1 {
+        padding-top: 0px;
+    }
+
+    #logo-emp1 .event1 {
+        font-size: 18px;
+        line-height: 30px;
+        padding-top: 0px;
+    }
+
+    #sec-heading .col-md-4 {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    #flip-card2 .two-imag {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #flip-card2 .row.too {
+        padding-top: 60px;
+        padding-bottom: 0px;
+    }
+
+    #two-cards-image .row :nth-child(1) {
+        order: 2;
+    }
+
+    #two-cards-image .row :nth-child(2) {
+        order: 1;
+    }
+
+    section#two-cards-image {
+        background-image: url(../images/Component111.png);
+        background-position: 100% 79%;
+    }
+
+    #two-cards-image2 .row.card-2 .col-md-6:nth-child(1) {
+        margin-top: -340px;
+    }
+
+    #two-cards-image2 .row.card-2 {
+        padding: 0px 0px 80px 0px;
+    }
+
+    #two-cards-image img.img-fluid {
+        margin-top: 20px;
+        height: 337px;
+        width: 385px;
+    }
+
+    div#owl-crosal .owl-stage-outer,
+    div#owl-best .owl-stage-outer {
+        padding: 0px 0px 0px;
+    }
+
+    #innersection h2 {
+        font-size: 22px;
+        line-height: 32px;
+        padding-right: 15px;
+    }
+
+    #section3 h1 {
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    #owl-crosal .item {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    #section3 h1 {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    #flip-card2 p {
+        font-size: 22px;
+        line-height: 32px;
+        padding-top: 0px;
+    }
+
+    #flip-card2 {
+        padding-bottom: 100px;
+    }
+#flip-card .midimg-col{
+    padding-right: 15px;
+}
+    #heading-display .card-title {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    #footer .col-md-4 {
+        text-align: left;
+        padding: 0px;
+    }
+
+    #flip-card2 .col-md-6.twoo {
+        padding-left: 20px;
+
+    }
+
+    #flip-card p.p-tag,
+    #flip-card p.para1 {
+        padding-left: 0px;
+        padding-right: 0px;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 27px;
+    }
+
+    #flip-card p.para2 {
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 27px;
+    }
+
+    #section4 {
+        padding: 29px 0px 26px;
+    }
+
+    #section2 .service-sec1 h1 {
+        padding-right: 0px;
+    }
+
+    #section2 .service-sec1 section#innersection p {
+        font-size: 20px;
+        line-height: 27px;
+        letter-spacing: 0.02em;
+        color: #221E15;
+        padding-right: 15px;
+        padding-left: 0px;
+        padding-top: 37px;
+    }
+
+    #brand-action .row.one :nth-child(1),
+    #brand-action .row.third :nth-child(1) {
+        order: 2;
+    }
+
+    #brand-action .row.one :nth-child(2),
+    #brand-action .row.third :nth-child(2) {
+        order: 1;
+    }
+
+    #section4 .link {
+
+        font-size: 18px;
+        line-height: 25px;
+
+    }
+
+    #text-with-img .Oversized-Headline {
+        top: -30px;
+    }
+
+    #section4 h2 {
+        font-size: 22px;
+        padding-top: 33px;
+        padding-left: 20px;
+        padding-right: 20px;
+        line-height: 38px;
+        padding-bottom: 30px;
+    }
+
+    #section5 .section-title {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    #clum-card-section .row.second-roww {
+        display: none;
+    }
+
+    #section5 .col-md-6.colum1 {
+        padding-top: 50px;
+    }
+
+    .event {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    #text h1 {
+        font-size: 36px;
+        line-height: 50px;
+        padding-top: 80px;
+        letter-spacing: 0.0em;
+        padding-left: 0px;
+        padding-right: 10px;
+    }
+
+    section#text .smll-text {
+        font-size: 20px;
+        line-height: 27px;
+        letter-spacing: 0.02em;
+        padding-top: 30px;
+        padding-right: 17px;
+    }
+
+    section#cards-with-body {
+        padding-top: 45px;
+    }
+
+    #text {
+        padding-bottom: 80px;
+    }
+    #text .smll-text {
+        padding-top: 20px;
+    }
+    #sec-heading h1 {
+        font-size: 36px;
+        line-height: 50px;
+        padding-bottom: 0px;
+    }
+    #sec-heading .for-line {
+        padding: 35px 0px 28px;
+    }
+
+    #cards-with-body .row {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #main-footer {
+        padding-top: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .two-buttons {
+        padding-top: 90px;
+        padding-bottom: 100px;
+    }
+
+    .smtitle {
+        font-size: 20px;
+        padding-right: 36px;
+    }
+
+    a#dropdownMenuLink {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        letter-spacing: 0.15em;
+        padding: 5px 20px 0px;
+    }
+
+    #threecol .lie {
+        border: 3px solid #AF663F;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        padding-top: 30px;
+    }
+
+    #sec-heading a#dropdownMenuLink {
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        padding: 6px 12px 3px
+    }
+
+    #cards-with-body h5 {
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        letter-spacing: 0.15em;
+    }
+    /* #flip-card .row.threeee .col-md-6:nth-child(2){
+        padding-right: 0px;
+    }
+    #flip-card .row.threeee .col-md-6:nth-child(2) .col-4 img{
+        height: 100%;
+    } */
+    #heading-display .container .btnsoli{
+        padding-bottom: 80px;
+        border-bottom: 3px solid #AF663F;
+    }
+ 
+    #heading-display .container {
+        padding-bottom: 0px;
+        border-bottom: none;
+    }
+    #cards-with-body h6 {
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 27px;
+        letter-spacing: 0.02em;
+    }
+#cards-with-body .card-title div:nth-child(2){
+    padding-right: 20px;
+}
+    #sec-heading .smtitle {
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 32px;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        padding-right: 8px;
+    }
+
+    .card-header {
+        font-family: 'Canela';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+    }
+
+    #cards-with-body .card {
+        padding: 15px;
+    }
+
+    #section5 .section-title {
+        padding-bottom: 89px;
+    }
+
+    #section5 h2 {
+        font-size: 34px;
+        line-height: 42px;
+    }
+
+    #section5 h2 {
+        padding-bottom: 47px;
+    }
+
+    #section7 .row {
+        padding-top: 50px;
+    }
+
+    #section7 hr {
+        margin-top: 30px;
+        width: 60px;
+        text-align: start;
+        margin-left: 0;
+        background-color: #AF663F;
+        height: 3px;
+    }
+
+    a#myBtn {
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 27px;
+        letter-spacing: 0.02em;
+    }
+
+    #myBtn i.fa.fa-long-arrow-right {
+        font-size: 18px;
+    }
+
+    #section6 h1 {
+        font-size: 36px;
+        padding-bottom: 20px;
+        font-family: 'Canela';
+        line-height: 50px;
+    }
+
+    #section7 .Caption1 {
+        font-size: 20px;
+        line-height: 24px;
+        padding-top: 12px;
+        padding-bottom: 48px;
+    }
+
+    .card-title,
+    #card-section p {
+        font-size: 18px;
+        line-height: 22px;
+        letter-spacing: 0.15em;
+    }
+
+    #section6 span {
+        border: 3px solid #AF663F;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+    }
+
+    #sec-card1 .card-title,
+    #sec-card2 .card-title,
+    #sec-card3 .card-title {
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 34px;
+        letter-spacing: 0.15em;
+        padding-top: 40px;
+    }
+
+    #sec-card1 p.card-text,
+    #sec-card2 p.card-text,
+    #sec-card3 p.card-text,
+    #sec-card1 a#myBtn,
+    #sec-card2 a#myBtn,
+    #sec-card3 a#myBtn {
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 27px;
+        letter-spacing: 0.02em;
+        padding-top: 16px;
+    }
+
+    #sec-card1 .col-md-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #sec-card2 .col-md-8 {
+        padding-bottom: 0px;
+    }
+
+    #sec-card3 .col-md-4 {
+        padding-bottom: 0px;
+    }
+
+    #sec-card3 .btncenter {
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 75px;
+    }
+
+    #sec-card2,
+    #sec-card3 {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    #section3 {
+        padding-bottom: 80px;
+        padding-top: 60px;
+    }
+    #section5 a#myBtn {
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #AF663F;
+    }
+    #section6 h2 {
+        padding: 0px 0px;
+    }
+
+    #section6 h2 {
+        font-size: 28px;
+        line-height: 34px;
+    }
+
+    .twobtn {
+        padding-bottom: 35px;
+        text-align: center;
+    }
+
+    #section9 .twobtn {
+        padding-bottom: 0px;
+        text-align: center;
+    }
+
+    #section9 .col-md-6 {
+        padding: 47px 0px;
+    }
+
+    #footer svg {
+        width: 80px;
+        height: 27px;
+    }
+
+    #aboutus .sectitle {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 30px;
+        letter-spacing: 0.15em;
+        padding-bottom: 30px;
+        padding-top: 0px;
+    }
+
+    #card-section span {
+        border: 3px solid #AF663F;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+    }
+
+    section#join_our_talent .link {
+        font-size: 20px;
+        line-height: 27px;
+        text-align: center;
+    }
+
+    #section9 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        display: inline;
+        text-align: left;
+    }
+
+    #section1 li.nav-item {
+        padding: 10px;
+        padding-left: 0px;
+    }
+
+    #section9 .row .col-md-6:nth-child(2) .twobtn,
+    #section6 .row .col-md-6:nth-child(2) .twobtn,
+    #section6 .row {
+        padding-bottom: 0px;
+    }
+
+    #section5 .col-md-6.colum2 {
+        height: 554px;
+        width: 414px;
+        background-color: #c4c4c4;
+    }
+
+    #section6 .col-md-6.borderleft {
+        border-right: none;
+        border-bottom: 1px solid white;
+        margin: 32px 0px 0px 0px;
+    }
+    #section6 .col-md-6 {
+        padding: 0px 0px;
+    }
+    #section9 .col-md-6.borderleft {
+        border-right: none;
+        border-bottom: 1px solid white;
+        margin: 0px;
+    }
+
+    #sec-card2 .a-btn {
+        padding-top: 0px;
+    }
+
+    #section6 .btnn {
+        font-size: 18px;
+        line-height: 40px;
+    }
+
+    #section6 {
+        padding: 33px 0px 0px;
+    }
+
+    #section7 .container {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #section7 .section-title {
+        font-size: 18px;
+        line-height: 30px;
+        text-align: center;
+        letter-spacing: 0.15em;
+    }
+
+    #section7 h2 {
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 34px;
+        padding-top: 44px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+    }
+
+    .last-heading {
+        padding-bottom: 60px !important;
+    }
+
+    .btnnc {
+        padding: 22px 74px 22px 74px;
+        font-size: 18px;
+    }
+
+    #section7 .Caption1,
+    #section7 .Caption2 {
+        padding-right: 90px;
+    }
+
+    #section7 {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+
+    #sec {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #section8 h1 {
+        font-size: 36px;
+        line-height: 50px;
+        text-align: center;
+        letter-spacing: 0.01em;
+    }
+
+    #section7 .btncenter {
+        text-align: center;
+        padding-top: 31px;
+        padding-bottom: 97px;
+    }
+
+    #section8 p {
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 34px;
+        padding-right: 35px;
+        padding-left: 35px;
+        text-align: center;
+        padding-top: 29px;
+    }
+
+    #section8 .col-md-6 {
+        padding-bottom: 40px;
+    }
+
+    #section8 .row {
+        padding-top: 38px;
+        padding-bottom: 30px;
+
+    }
+
+    #footer.col-md-2 {
+        padding-top: 40px;
+    }
+
+    .about {
+        font-size: 18px;
+        line-height: 21px;
+        padding-top: 16px;
+    }
+
+    #section8 .btnc {
+        font-size: 17px;
+        padding: 16px 45px;
+    }
+
+    #section8 {
+        padding-top: 36px;
+        padding-bottom: 84px;
+    }
+
+    #text-with-img .btnlas {
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    #sect-last h1 {
+        padding-top: 30px;
+        font-family: 'Canela';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 40px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.01em;
+    }
+
+    img.img2 {
+        width: 90px;
+    }
+
+    #section9 .btnn {
+        font-size: 18px;
+        line-height: 23px;
+        text-align: center;
+        letter-spacing: 0.14em;
+    }
+
+    #threecol .col-md-2 {
+        padding-left: 15px;
+    }
+
+    #img .larg-title {
+        font-size: 24px;
+        line-height: 34px;
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 34px;
+        letter-spacing: 0.15em;
+        padding-top: 30px;
+        padding-bottom: 5px;
+    }
+
+    #img p {
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 27px;
+        letter-spacing: 0.02em;
+        padding-bottom: 8px;
+    }
+
+    #sec-heading .two-buttons {
+        text-align: center;
+    }
+
+    #flip-card2 h2 {
+        font-size: 28px;
+        line-height: 34px;
+        padding-top: 40px !important;
+        padding-bottom: 40px;
+        padding-right: 10px;
+        font-family: 'Founders Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+letter-spacing: 0.01em;
+
+    }
+
+    #flip-card2 .btnlas {
+        text-align: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        float: right;
+    }
+
+    #flip-card2 .btnlas2 {
+        text-align: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        float: right;
+    }
+
+    #flip-card2 {
+        padding-top: 0px;
+    }
+
+    #sec-heading button.btn1 {
+        float: none;
+    }
+
+    /* button.btn1{
+        font-size: 18px;
+        padding: 10px 15px;
+    } */
+    button.btn2,
+    button.btn11 {
+        font-size: 14px;
+        padding: 13px 22px;
+    }
+
+    #img-with-text h1 {
+        font-size: 30px;
+        line-height: 40px;
+        padding-top: 30px;
+        margin: 0px;
+    }
+
+    #sec-heading {
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+
+    #aboutus {
+        padding-bottom: 25px;
+        padding-top: 0px;
+    }
+
+    #card-section h1 {
+        font-size: 36px;
+        line-height: 50px;
+        text-align: center;
+        letter-spacing: 0.01em;
+        padding-bottom: 40px;
+    }
+
+    #threecol h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .col-md-6.midimg-col {
+        padding-right: 0px;
+    }
+
+    #card-section {
+        padding-top: 80px;
+        padding-bottom: 74px;
+    }
+
+    #clum-card-section h2 {
+        font-size: 22px;
+        padding-bottom: 20px;
+        line-height: 33px;
+    }
+
+    #clum-card-section h3 {
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.01em;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .inner .col-md-6 .img-fluid {
+    width: 100%;
+    padding-bottom: 30px;
+    height: 348px;
+}
+    div#owl-crosal button.owl-dot,
+    div#owl-best button.owl-dot {
+        background-color: #CDCDCD !important;
+        margin: 0px 4px;
+        width: 32px;
+        border-radius: 0px;
+        height: 4px;
+        z-index: 9999999;
+    }
+
+    #clum-card-section {
+        padding-top: 80px;
+        padding-bottom: 72px;
+    }
+
+    div#owl-crosal .owl-dots {
+        padding-top: 0px;
+    }
+
+    #clum-card-section .row {
+        padding-top: 35px;
+    }
+
+    #clum-card-section .row.second-roww {
+        padding-top: 30px;
+    }
+
+    #text-with-img .Oversized-Headline {
+        font-size: 44px;
+        line-height: 50px;
+        padding-bottom: 25px;
+    }
+
+    #text-with-img h2 {
+        font-size: 28px;
+        padding-top: 0px;
+        padding-left: 12px;
+        padding-right: 12px;
+        line-height: 34px;
+        padding-top: 50px;
+        text-align: center;
+    }
+
+    #brand-action h1 {
+        border: 3px solid #AF663F;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+    }
+
+    #flip-card2 .two-imag {
+        width: 130px;
+        height: 59px;
+    }
+
+    #section2 h1 {
+        padding-top: 30px;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 40px;
+        padding-right: 0px;
+        padding-bottom: 30px;
+    }
+
+    button.navbar-toggler {
+        border: none;
+    }
+
+    section#innersection p {
+        font-size: 15px;
+        line-height: 20px;
+        letter-spacing: 0.02em;
+        padding-right: 35px;
+    }
+
+    #brand-action .col-md-5.gapp {
+        padding-left: 15px;
+    }
+
+    #innersection {
+        padding-top: 0px;
+        padding-bottom: 70px;
+    }
+
+    #two-cards-image2 p {
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 27px;
+    }
+
+    #two-cards-image p {
+        font-size: 24px;
+        line-height: 40px;
+        /* or 167% */
+        padding-top: 50px;
+
+        letter-spacing: 0.02em;
+    }
+
+    section#two-cards-image2 {
+        padding-bottom: 50px;
+    }
+
+    #logo-emp .event {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 30px;
+        letter-spacing: 0.15em;
+        padding-top: 0px;
+    }
+
+    section#two-cards-image2 .row.card-2 .col-md-6 {
+        margin-top: 0px;
+        padding-left: 22px;
+        padding-right: 22px;
+    }
+
+    #two-cards-image .row {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+
+    section#brand-action {
+        padding-top: 0px;
+        padding-bottom: 80px;
+    }
+
+    #sec-heading span {
+        border: 3px solid #AF663F;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        padding: 0px 0px 4px;
+    }
+
+    #heading-text a#myBtn {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 30px;
+        letter-spacing: 0.15em;
+    }
+
+    #brand-action h1 {
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 40px;
+        padding-top: 0px;
+    }
+
+    #imagesection1 {
+        height: 660px;
+    }
+
+    #brand-action .col-md-6.gapp {
+        padding-left: 20px;
+    }
+
+    #brand-action p {
+        font-size: 20px;
+        line-height: 27px;
+        padding-top: 20px;
+    }
+
+    #brand-action .small-title1 {
+        font-size: 20px;
+        line-height: 27px;
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+
+    section#embricing-section {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    #brand-action .parent {
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+
+    #brand-action .link a {
+        font-size: 20px;
+        line-height: 45px;
+    }
+
+    #brand-action .fourth {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    #brand-action .row.second {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #brand-action .btnlas {
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+
+    .col-md-6.colum1 {
+        padding-right: 20px;
+    }
+
+    #brand-action .btnc {
+        font-size: 18px;
+        line-height: 32px;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.15em;
+        padding: 15px 50px 13px;
+    }
+
+    #Dreaming h1 {
+        font-weight: 300;
+        font-size: 36px;
+        line-height: 50px;
+    }
+
+    #Dreaming {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+
+    #Dreaming .btncenter {
+        text-align: center;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #Dreaming span,
+    #img-with-text span {
+        border: 3px solid #AF663F;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+    }
+
+    #img-with-text h2 {
+        font-size: 20px;
+        line-height: 27px;
+        padding-top: 30px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #img-with-text button.btn11 {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        text-align: center;
+        letter-spacing: 0.15em;
+        padding: 12px 72px 10px 72px;
+    }
+
+    #img-with-text .btncenter {
+        padding-top: 15px;
+        padding-bottom: 0px;
+    }
+
+    #sec-heading button.btn2,
+    #sec-heading button.btn1 {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        text-align: center;
+        letter-spacing: 0.15em;
+        padding: 12px 4px 11px;
+
+    }
+#section1 ul.navbar-nav.ml-auto {
+    padding-top: 30px;
+}
+    #heading-display .btn-solid {
+        padding: 12px 38px;
+        color: gray;
+        font-size: 18px;
+    }
+
+    .event1 {
+        font-size: 18px;
+        line-height: 25px;
+        padding-top: 10px;
+    }
+
+    #section21 .section-title,
+    #section22 .section-title {
+        font-size: 18px;
+        line-height: 15px;
+    }
+
+    #sect-last .section-title {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 30px;
+        text-align: center;
+        letter-spacing: 0.15em;
+        color: #AF663F;
+    }
+
+    #text-with-img .section-title {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 30px;
+        text-align: center;
+        letter-spacing: 0.15em;
+        color: #AF663F;
+        padding-top: 60px;
+    }
+
+    #text-with-img {
+        padding-top: 80px;
+        padding-bottom: 200px;
+    }
+
+    #heading-display h1 {
+        font-size: 36px;
+        line-height: 50px;
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    #heading-display h5 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    #heading-display h6 {
+        font-size: 20px;
+        line-height: 27px;
+    }
+
+    #heading-text {
+        padding-top: 0px;
+    }
+
+    .for-desktop {
+        display: none;
+    }
+
+    .for-mobile {
+        display: block;
+    }
+
+    #two-cards-image2 .img-fluid {
+        max-width: 100%;
+        height: 370px;
+    }
+
+    .btnsoli {
+        padding-top: 15px;
+        padding-left: 0px;
+        text-align: start;
+    }
+
+    #flip-card p {
+        font-size: 18px;
+        line-height: 35px;
+    }
+
+    #flip-card .row.one :nth-child(1),
+    #flip-card .row.threeee :nth-child(1),
+    #flip-card2 .row.too :nth-child(1) {
+        order: 2;
+    }
+
+    #flip-card .row.one p.p-tag,
+    #flip-card p.para1,
+    #flip-card p.para2 {
+        padding-top: 40px;
+    }
+
+    #flip-card .row.one :nth-child(2),
+    #flip-card .row.threeee :nth-child(2),
+    #flip-card2 .row.too :nth-child(2) {
+        order: 1;
+    }
+
+    #flip-card .para1 {
+        padding-top: 25px;
+    }
+
+    #flip-card .row.threeee {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #img-with-text {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    section#img .img-fluid {
+        max-width: 100%;
+        height: 500px;
+    }
+
+    #Dreaming h2 {
+        font-size: 18px;
+        line-height: 22px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #Dreaming .btnnc {
+        padding: 15px 50px 13px;
+        font-size: 18px;
+        line-height: 32px;
+        text-align: center;
+        letter-spacing: 0.15em;
+        border: 3px solid #221E15;
+    }
+
+    .sec-two h3 {
+        font-size: 18px;
+        line-height: 22px;
+        align-items: center;
+        text-align: center;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    #paragraph p {
+        font-size: 28px;
+        line-height: 34px;
+        padding-top: 0px;
+    }
+
+    #paragraph .col-md-7 {
+        padding-right: 38px;
+    }
+
+    .imag {
+        text-align: center;
+    }
+
+    section#paragraph {
+        padding-top: 0px;
+        padding-bottom: 70px;
+    }
+
+    #testimonial p {
+        font-size: 20px;
+        line-height: 30px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    section#testimonial {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    #testimonial div#owl-best .owl-stage-outer {
+        padding-bottom: 20px;
+    }
+
+    #testimonial .section-title {
+        font-size: 18px;
+        line-height: 25px;
+        padding-bottom: 25px;
+    }
+
+    img.img1 {
+        height: 180px;
+    }
+
+    #text-farm h1 {
+        font-size: 36px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 40px;
+        padding-bottom: 0px;
+        line-height: 50px;
+    }
+
+    #heading-display .section-title {
+        font-size: 18px;
+        line-height: 0px;
+        line-height: 30px;
+    }
+
+    #only-text p {
+        padding-top: 40px;
+        padding-bottom: 0px;
+        font-family: 'Founders Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        letter-spacing: 0.01em;
+    }
+
+    #text-farm .col-md-6 {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    #only-text .only-text-cal1 {
+        padding-right: 30px;
+    }
+
+    #only-text .only-text-cal2 {
+        padding-right: 34px;
+        padding-top: 70px;
+        padding-bottom: 100px;
+    }
+
+    #logo-emp1 img.img-fluid {
+        height: 447px;
+    }
+
+    #footer .img {
+        width: 75px;
+    }
+
+    #aboutus .description {
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 32px;
+        padding-right: 19px;
+        padding-top: 30px;
+        padding-bottom: 80px;
+    }
+
+    #imagesection {
+        height: 470px;
+    }
+
+    #section2 h5 {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 21px;
+        color: #AF663F;
+    }
+
+    #section3 h5 {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 30px;
+        color: #AF663F;
+    }
+
+    #section2 .col-md-8,
+    #aboutus .col-md-8,
+    #heading-text .col-md-8 {
+        padding-left: 15px;
+    }
+
+    #card-section .container {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    #card-section .col-md-3 {
+        padding-bottom: 26px;
+    }
+
+    #text-farm p {
+        font-size: 18px;
+        text-align: center;
+        line-height: 22px;
+        padding-left: 65px;
+        padding-right: 65px;
+        padding-bottom: 0px;
+        padding-top: 60px;
+
+    }
+
+    section#text-farm {
+        padding: 20px;
+    }
+
+    #embricing-section .oversezing-heading {
+        font-size: 36px;
+        line-height: 50px;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    #text-farm .row {
+        margin-left: 0px;
+        margin-right: 0px;
+
+    }
+
+    #paragraph .imag {
+        padding-top: 70px;
+        padding-bottom: 60px;
+    }
+
+    img.img1 {
+        width: 35%;
+        height: 5%;
+    }
+
+    #iner-frame-sec .mail-section {
+        font-size: 30px;
+        line-height: 40px;
+        padding-left: 25px;
+    }
+
+    #iner-frame-sec .least-title {
+        font-size: 18px;
+        line-height: 30px;
+        padding-bottom: 10px;
+        padding-left: 25px;
+    }
+
+    #iner-frame-sec .hr-tag {
+        display: block;
+        margin-left: 25px;
+    }
+
+    #iner-frame-sec {
+        padding-bottom: 90px;
+        padding-top: 0px;
+    }
+.logo-white svg{
+    filter: brightness(3) contrast(3) saturate(0);
+}
+.logo-black svg{
+    filter: brightness(0) contrast(3) saturate(0);
+}
+    #section25 h2 {
+        font-family: 'Founders Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+letter-spacing: 0.01em;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    #iner-frame-sec .container {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    #logo-emp {
+        padding-bottom: 695px;
+    }
+
+    #heading-text h1 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        font-family: 'Canela';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 36px;
+        line-height: 50px;
+        letter-spacing: 0.01em;
+    }
+
+    #heading-text {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #section25 .event {
+        font-size: 18px;
+        line-height: 30px;
+        padding-top: 0px;
+    }
+
+    #empty-card {
+        padding-top: 100px;
+        padding-bottom: 64px;
+    }
+#culum-text-img .btnc1{
+font-family: 'Maison Mono';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 32px;
+text-align: center;
+letter-spacing: 0.15em;
+}
+    #empty-card .col-md-4 {
+        padding-bottom: 36px;
+    }
+
+    #empty-image {
+        margin-top: 110px;
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+
+    #brand-action h2 {
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 32px;
+        padding-top: 25px;
+        padding-bottom: 60px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    img.imglast {
+        text-align: center;
+        width: 100%;
+    }
+
+    #section22 h1 {
+        font-family: 'Canela';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 36px;
+        line-height: 50px;
+        letter-spacing: 0.01em;
+        padding-right: 20px;
+    }
+
+    #section22 p {
+        padding-bottom: 30px;
+    }
+
+    #section22 p {
+        font-family: 'Founders Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: 0.02em;
+    }
+   #main-footer .p-2.bd-highlight {
+        padding: 0px !important;
+        padding-top: 17px !important;
+    }
+    #sec .event1 {
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 36px;
+    }
+
+    /* #section22 p{
+        padding-top: 50px;
+    padding-bottom: 15px;
+    } */
+    #two-cards-image h1 {
+        font-family: 'Canela';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 40px;
+        line-height: 50px;
+        /* or 125% */
+
+        letter-spacing: 0.01em;
+    }
+
+    header#section1 {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+
+    #section2 {
+        background-color: #F4F7F4;
+        padding-top: 0px;
+    }
+
+    #backimgsec {
+        padding: 88px 0px;
+    }
+
+    #sec-card1 .card,
+    #sec-card2 .card,
+    #sec-card3 .card {
+        border: none;
+        /* padding: 44px 0px; */
+        background: #f4f7f4;
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+
+    #sec-card1 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #two-cards-image .btnc1 {
+        padding: 10px 30px;
+    }
+
+    #two-cards-image2 h1 {
+        font-weight: 300;
+        font-size: 36px;
+        line-height: 50px;
+        padding-top: 150px;
+    }
+
+    #two-cards-image2 p {
+        padding-right: 0px;
+    }
+
+    section#two-cards-image {
+        padding-bottom: 300px;
+    }
+
+    section#threecol {
+        padding-top: 0px;
+        padding-bottom: 80px;
+    }
+
+    #section25 #subject {
+        margin-top: 20px;
+    }
+
+    #section25 .col-md-6.cal-1 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #iner-frame-sec .container {
+        background-color: white;
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+
+    #iner-frame-sec button[type=submit] {
+        float: left;
+    }
+
+    #section25 .sub-button {
+        margin-top: 0px;
+    }
+
+    #innersection .col-md-4 {
+        padding-right: 30px;
+    }
+
+    #section3 h1 {
+        padding-right: 20px;
+    }
+
+    #footer ul {
+        padding: 10px 0px;
+    }
+
+    #footer .row {
+        padding: 20px 20px;
+    }
+
+    #footer .row.secound {
+        padding-bottom: 0px;
+    }
+
+    #section22 .btnlas1 {
+        padding-bottom: 10px;
+        padding-top: 50px;
+    }
+
+    #section22 .col-md-6 {
+        padding-top: 0px;
+        padding-bottom: 40px;
+    }
+
+    /* #section22 .btnc1 {
+        padding: 10px 30px;
+    } */
+#two-cards-image2 .btnlas1 {
+   padding: 40px 0px;
+}
+    #footer .row.thred {
+        padding-top: 0px;
+    }
+
+    #footer img.img-fluid {
+        padding-bottom: 30px;
+    }
+
+    #threecol .d-flex.justify-content-end {
+        justify-content: flex-start !important;
+    }
+
+    #section4 .container {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #section2 span {
+        padding-left: 35px;
+    }
+
+    #sec-heading .smtitle1,
+    #sec-heading .smtitle2 {
+        font-family: 'Maison Mono';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 30px;
+        letter-spacing: 0.15em;
+    }
+
+    #flip-card2 .btnc {
+        font-size: 18px;
+        padding: 6px 5px;
+    }
+
+    #text-with-img .btnc {
+        font-size: 20px;
+        padding: 10px 55px 10px;
+    }
+
+    #flip-card2 .btnc {
+        padding: 15px 17px 15px;
+    }
+
+    #section2 span {
+        padding-left: 30px;
+    }
+
+    #section2 .row.first-row {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #owl-cro1 .owl-item .item img {
+        -webkit-transition: none !important;
+        -webkit-box-shadow: none !important;
+        box-shadow: none !important;
+        -o-transition: unset !important;
+        transition: none !important;
+        -webkit-transform: none !important;
+        -ms-transform: unset !important;
+        transform: none !important;
+    }
+
+    #owl-cro1 .owl-item.center .item img {
+        -webkit-transform: none !important;
+        -ms-transform: unset !important;
+        transform: none !important;
+    }
+}
+
+.btnnc:hover{
+    background-color: transparent;
+    color: #221E15;
+    border: 3px solid #221E15;
+}
+
+#owl-cro1 .owl-item .item img {
+    -webkit-transition: 0.3s;
+    -webkit-box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: none;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    /*-webkit-transform: scale(0.80);
+    -ms-transform: scale(0.80);
+    transform: scale(0.80);*/
+}
+
+#owl-cro1 .owl-item.center .item img {
+    /*-webkit-transform: scale(1.15);
+    -ms-transform: scale(1.15);
+    transform: scale(1.15);*/
+}
+
+#owl-cro1 .owl-item .item {
+    /*height: 232px;
+    margin-top: 84px;*/
+}
+
+#owl-cro1 .active .item {
+    /*margin-top: 30px;
+    height: 359px;*/
+}
+
+#owl-cro1 .owl-item.cloned .item img {
+    /*height: 359px;*/
+}
+
+#owl-cro1 .center .item {
+    /*margin-top: -50px;
+    height: 436px;
+    width: 424px;*/
+}
+
+#owl-cro1 .center {
+    /*height: 490px;*/
+}
+
+#owl-cro1 .owl-item .item img {
+    height: 100%;
+}
+
+.mCSB_draggerContainer {
+    background: #af663f;
+    height: 4px !important;
+    margin: 0px 0px 0px;
+}
+
+.mCSB_scrollTools.mCSB_scrollTools_horizontal .mCSB_dragger .mCSB_dragger_bar {
+    margin: 0px auto 0px !important;
+}
+
+.mCS-dark.mCSB_scrollTools .mCSB_draggerRail {
+    background-color: #000;
+    background-color: transparent !important;
+}
+
+div#owl-cro1 .owl-dots {
+    background: #af663f;
+    position: relative;
+    display: flex;
+}
+
+div#owl-cro1 button.owl-dot {
+    background-color: #c8c8db00 !important;
+    width: 135px;
+    height: 6px;
+}
+
+div#owl-cro1 button.owl-dot.active {
+    background-color: black !important;
+}
+
+
+@media screen and (min-width: 1200px){
+    #owl-cro1 .owl-stage{
+        display: flex;
+        align-items: center;
+    }
+    #owl-cro1 .owl-item:not(.center) + .owl-item.active .item-img {
+        width: 262px;
+        height: 395px;
+    }
+    #owl-cro1 .owl-item.center + .owl-item.active .item {
+        display: flex;
+        justify-content: flex-end;
+    }
+    #owl-cro1 .owl-item.center + .owl-item.active .item-img {
+        width: 262px;
+        height: 195px;
+    }
+    #owl-cro1 .owl-item.active.center .item-img {
+        width: 425px !important;
+        height: 425px !important;
+    }
+}
+#owl-cro1 .owl-item .item-img{
+    background-size: cover;
+    background-position: center center;
+}
+@media screen and (max-width: 600px){
+    #owl-cro1 .owl-item.active.center .item-img{
+        width: 314px;
+        height: 363px;
+    }
+    #owl-cro1 .owl-stage {
+        display: flex;
+        align-items: center;
+    }
+    #owl-cro1 .owl-stage > .active .item-img {
+        width: 314px;
+        height: 363px;
+    }
+    #owl-cro1 .owl-stage > .active ~ .active .item-img {
+        width: 374px;
+        height: 436px;
+    }
+}

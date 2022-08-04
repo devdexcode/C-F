@@ -1,0 +1,6 @@
+2022-07-25T21:14:20+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\xampp\htdocs\Cloth-and-flame\wp-content\themes\Cloth-and-flame\Templates\components\image_with_text_1.php on line 30
+
+2022-07-25T21:30:52+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in D:\xampp\htdocs\Cloth-and-flame\wp-content\themes\Cloth-and-flame\Templates\components\image_with_text_1.php on line 33
+
+2022-07-25T21:31:17+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in D:\xampp\htdocs\Cloth-and-flame\wp-content\themes\Cloth-and-flame\Templates\components\image_with_text_1.php on line 33
+

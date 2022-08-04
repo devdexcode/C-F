@@ -1,0 +1,56 @@
+/*****************
+* Theme Name: Cloth and Flame
+* Theme URI: 
+* Author: DexterC
+* Author URI: 
+* Description: To run Cloth and Flame Website. 
+* Text Domain: cf_
+* Version: 1.0
+* Version Date: 9th Jul, 2022
+********************/
+a.nav-link{font-family: 'FoundersGrotesk-Medium' !important;font-style: normal !important;font-weight: 400 !important;font-size: 18px !important;line-height: 15px !important;text-align: center !important;letter-spacing: 0.15em !important;/*color: #221E15 important; */ text-transform: uppercase !important;} #section{padding-top: 50px;padding-bottom: 50px !important;}.link-color, button .link-color{color:#AF663F;}.link-color:hover, button .link-color:hover{color:#FFF !important;}.post-edit-link {max-width: 32px !important;position: absolute;display: inline;overflow: hidden;}.post-edit-link img {max-width: 16px;position: relative;display: inline;}body {padding-top: 0 !important;}.page-custom-events #sec-heading {padding-top: 80px !important;} body {padding-top: 0 !important;}.page-custom-events #sec-heading, .page-ticketed-events#sec-heading {padding-top: 80px !important;}
+/* * 
+ * CHANGES:
+ * */
+.navbar-brand svg {width: 100%; }
+a.nav-link {font-size: 16px !important;}
+#footer h5.about { font-size: 16px;}
+#section .Caption1 {font-family: 'Founders Grotesk';font-style: normal;font-weight: 400;font-size: 17px;line-height: 24px;color: #221E15;padding-right: 285px;padding-top: 12px;}
+#section .Caption2 {font-family: 'Founders Grotesk';font-style: normal;font-weight: 400;font-size: 17px;line-height: 24px;color: #221E15;padding-right: 80px; padding-top: 12px;}
+#section .container {padding-top: 43px;padding-bottom: 67px;}
+#footer ul.menu li {margin-left: 5px;padding-left: 0;}
+#section22 p {padding-bottom: 0;}
+.button-1{text-transform: uppercase;font-family: 'Maison Mono';font-style: normal;font-weight: 400;font-size: 22px;line-height: 32px;align-items: center;text-align: center;letter-spacing: 0.15em;color: #000000;border: 3px solid #AF663F;background: transparent;padding:12px 36px 10px;cursor: pointer;}
+.button-1:hover{color: #FFF;border: 3px solid #AF663F;background: #AF663F;cursor: pointer;}
+.button-2{text-transform: uppercase;font-family: 'Maison Mono';font-style: normal;font-weight: 400;font-size: 22px;line-height: 32px;text-align: center;letter-spacing: 0.07em;color: #FFF;border: 3px solid #000;background: #000;padding:12px 36px 10px;cursor: pointer;}
+.button-2:hover{background:#FFF;color:#000;border-color:#000;cursor: pointer;}
+
+.display-table{display: table;} .inner-content-middle{display: table-cell;vertical-align: middle;}
+.order-2-img-inside img{float:right;}
+
+#testimonial .section-title {text-transform: uppercase;}
+#section8 p {padding-left: 0;padding-right: 0;max-width: 66%;margin: 0 auto;}
+.page-about-us header#section1{background-color: #BEB69F;}.page-about-us header#section1 a.nav-link{color:#FFF !important;}
+.page-about-us .navbar-brand svg path {fill: #FFF !important;}
+.page-ticketed-events .navbar-brand svg path {fill: #FFF !important;}
+.page-ticketed-events header#section1{background-color: transparent;}.page-ticketed-events header#section1 a.nav-link{color:#FFF !important;}
+#logo-emp {margin-top:-70px;padding-top:70px;}
+.page-open-venues header#section1,.page-culinary-catering header#section1{background-color: #EEE8E0;}
+.page-contact-us header#section1{background-color: #221E15;}.page-contact-us header#section1 a.nav-link{color:#FFF !important;}
+.page-careers header#section1{background-color: transparent;}.page-careers header#section1 a.nav-link{color:#FFF !important;}.page-careers .navbar-brand svg path{fill:#FFF !important;}
+#logo-emp{background-color:#C4C4C4;}
+.current-menu-item.active a{border-bottom: 3px solid #AF663F;}
+
+#img-with-text h2 {padding: 34px 0px 0px 0px !important;max-width: 1040px;margin: 0 auto;}
+.img-hover {cursor: pointer;}
+.single-work .span #myBtn {text-transform: uppercase !important;}
+
+#section6 {background-color: #EEE8E0;padding: 160px 0px 140px 0;margin: 0 auto;text-align: center;}
+#section7 h2 {padding: 66px 0 0px 0px;max-width: 76%;margin: 0 auto;}
+#section6 h2 {padding-left:0px;padding-right:0px;max-width: 68%;margin:0 auto;}
+#Dreaming h2 {padding: 32px 0 0px 0px;max-width: 76%;margin: 0 auto;}
+#clum-card-section h3 {padding: 0;max-width: 76%;margin: 0 auto;}
+div#owl-crosal .owl-dots, div#owl-best .owl-dots {text-align: center;padding-top: 0;}
+.col.target{padding-top: 105px !important;padding-bottom: 0px;}
+.first.col.target{padding-top: 0px !important;padding-bottom: 0px;}
+.link {    text-transform: capitalize;  }
